@@ -1,12 +1,3 @@
-# Codility-Solutions
-
-/*
-https://app.codility.com/cert/view/certYWTVXR-TASPYTS2T59EJKWU/
-
-Question and Solution
-https://app.codility.com/cert/view/certYWTVXR-TASPYTS2T59EJKWU/details/
-*/
-
 function solution(A) {
     // write your code in JavaScript (Node.js 8.9.4)
     let numberOfSameValueRows = 0;
